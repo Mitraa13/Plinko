@@ -58,8 +58,8 @@ function draw() {
 
   Engine.update(engine);
 
-  fill("white");
   stroke("white");
+  fill("white");
   textSize(30);
   text("500",15,650);
   text("500",97,650);
